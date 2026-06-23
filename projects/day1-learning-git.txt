@@ -1,0 +1,4 @@
+Day 1 - Learning GitHub
+   - Created my first notes repo
+   - Learned how to edit README directly on GitHub
+   - Commits save a snapshot + message
